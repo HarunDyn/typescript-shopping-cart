@@ -1,3 +1,5 @@
+![hd-shopping-cart](https://github.com/HarunDyn/typescript-shopping-cart/blob/main/hd-shopping-cart.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
